@@ -69,3 +69,5 @@ Designing combinational circuits
 Writing testbenches for simulation
 
 Using EDA tools and simulators
+
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/9aeb692d-7307-48b0-9ff8-73aa2c6d1a5a)
